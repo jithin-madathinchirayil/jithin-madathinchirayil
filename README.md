@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Next js and .NET
 - 💞️ I’m looking to collaborate on Google and microsoft if they are have web application in Angular 
 - 📫 How to reach me - Aham brahmasmi...
+- Angular
 
 <!---
 jithin-madathinchirayil/jithin-madathinchirayil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
